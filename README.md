@@ -8,7 +8,7 @@ This backend application is built using **NodeJs and Express**
 
 ## Features
 
-- **Numerical properties :** GET operation to obtain mathematical properties of any number supplied as a param in the request header.
+- **Numerical properties :** GET operation to obtain mathematical properties of any number supplied as a param in the request url.
 
 ## Setup Instructions
 
@@ -35,7 +35,7 @@ npm start
 ## More Info
 
 For full endpoint documentation and to reach out to more nodeJs developers in HNG, please check:
-- [**Documentation**](https://documenter.getpostman.com/view/42382485/2sAYXFgc6s)
+- [**Documentation**](https://documenter.getpostman.com/view/42382485/2sAYdcqrXM)
 - [**HNG nodeJs devs**](https://hng.tech/hire/nodejs-developers)
 
 Thank you for visiting! Please leave a star 🌟
